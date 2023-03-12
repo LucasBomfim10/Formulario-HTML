@@ -8,7 +8,7 @@ Para usar este projeto, basta baixar ou clonar o repositório e abrir o arquivo 
 
 ## Screenshot
 
-![Screenshot do projeto Formulário de Registro](./screenshot.png)
+![Screenshot do projeto Formulário de Registro](./screenshot.PNG)
 
 ## Funcionalidades
 
@@ -23,6 +23,6 @@ Este formulário de registro apresenta as seguintes funcionalidades:
 
 ## Autor
 
-- Nome: [Lucas Bomfim Fernandes]
-- Email: [lucadez01@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/lucasbomfim10/]
+- Nome: Lucas Bomfim Fernandes
+- Email: lucadez01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucasbomfim10
